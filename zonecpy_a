@@ -1,0 +1,13 @@
+0: import re
+1: 
+2: xx = """guru99
+3: careerguru99
+4: selenium"""
+5: 
+6: k1 = re.findall(r"^\w", xx)
+7: k2 = re.findall(r"^\w", xx, re.MULTILINE)
+8: 
+9: print(k1)
+10: print(k2)
+11:
+12:

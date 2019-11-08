@@ -1,0 +1,13 @@
+zone name tfbosnb1_HBA2_p1  vsan77
+21:01:00:1b:32:34:15:51
+zone_tfbosnb1_01_HBA3_p1
+21:01:00:1b:32:34:15:50
+21:01:00:1b:32:34:15:50
+21:01:00:1b:32:34:15:59
+zone name tfbosnb1_HBA2_p1  vsan77
+21:01:00:1b:32:34:15:61
+21:01:00:1b:32:34:15:60
+zone name nbmap1_HBA1_p1  vsan77
+10:01:00:1b:32:34:10:25
+zone name nbmap1_HBA2_p1  vsan77
+10:01:00:1b:32:34:15:25

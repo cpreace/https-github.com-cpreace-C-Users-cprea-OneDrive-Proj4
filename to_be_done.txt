@@ -1,0 +1,14 @@
+2 linux courses
+
+python
+
+regex
+
+perl
+
+bash
+
+ansible
+
+git
+

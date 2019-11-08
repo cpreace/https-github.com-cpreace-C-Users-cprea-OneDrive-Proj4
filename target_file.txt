@@ -1,0 +1,11 @@
+zone name tfbosnbms1_HBA1_p0 vsan 777
+pwwn 50:01:04:f0:00:5f:2c:be
+pwwn 50:01:04:f0:00:5f:2c:cd
+pwwn 50:01:04:f0:00:5f:2c:ca
+pwwn 50:01:04:f0:00:5f:2c:c7
+pwwn 50:01:04:f0:00:5f:2c:c4
+pwwn 50:01:04:f0:00:5f:2c:d9
+pwwn 50:01:04:f0:00:5f:2c:f1
+pwwn 50:01:04:f0:00:5f:2c:ee
+pwwn 21:01:00:1b:32:a0:15:28
+
