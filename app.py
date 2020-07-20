@@ -4,7 +4,7 @@ print("  / |")
 print(" /  |")
 print("/___|")
 
-character_name = "John"
+character_name = "John Boy"
 character_age = "35"
 #is_male = false
 print("There once was a man named " + character_name + ", ")
